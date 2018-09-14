@@ -1,29 +1,31 @@
-<img> src="./emojis/1000000.png"</img>
-<img> src="./emojis/2day.png"</img>
-<img> src="./emojis/40.png"</img>
-<img> src="./emojis/420alert.gif"</img>
-<img> src="./emojis/666.gif"</img>
-<img> src="./emojis/99.png"</img>
-<img> src="./emojis/angry_taco.png"</img>
-<img> src="./emojis/angrycactusboi.gif"</img>
-<img> src="./emojis/aol.png"</img>
-<img> src="./emojis/approved.png"</img>
-<img> src="./emojis/avodude.png"</img>
-<img> src="./emojis/awesomeface.jpg"</img>
-<img> src="./emojis/bacon_dance.gif"</img>
-<img> src="./emojis/big_ass_fan.jpg"</img>
-<img> src="./emojis/black_russian.png"</img>
-<img> src="./emojis/blargh.jpg"</img>
-<img> src="./emojis/bmo.gif"</img>
-<img> src="./emojis/bob_omb.gif"</img>
-<img> src="./emojis/bokbok.png"</img>
-<img> src="./emojis/burrrrito.gif"</img>
-<img> src="./emojis/happyburrito.jpg"</img>
-<img> src="./emojis/meeseeks.png"</img>
-<img> src="./emojis/rocker.gif"</img>
-<img> src="./emojis/sample.py"</img>
-<img> src="./emojis/sponsors.pdf"</img>
-<img> src="./emojis/test_google.sh"</img>
-<img> src="./emojis/thegame.png"</img>
-<img> src="./emojis/thinkinghand.png"</img>
-<img> src="./emojis/true.jpg"</img>
+![test](./emojis/+111111111111.gif)
+![test](./emojis/1000000.png)
+![test](./emojis/2day.png)
+![test](./emojis/40.png)
+![test](./emojis/420alert.gif)
+![test](./emojis/666.gif)
+![test](./emojis/99.png)
+![test](./emojis/angry_taco.png)
+![test](./emojis/angrycactusboi.gif)
+![test](./emojis/aol.png)
+![test](./emojis/approved.png)
+![test](./emojis/avodude.png)
+![test](./emojis/awesomeface.jpg)
+![test](./emojis/bacon_dance.gif)
+![test](./emojis/big_ass_fan.jpg)
+![test](./emojis/black_russian.png)
+![test](./emojis/blargh.jpg)
+![test](./emojis/bmo.gif)
+![test](./emojis/bob_omb.gif)
+![test](./emojis/bokbok.png)
+![test](./emojis/burrrrito.gif)
+![test](./emojis/happyburrito.jpg)
+![test](./emojis/meeseeks.png)
+![test](./emojis/rocker.gif)
+![test](./emojis/sample.py)
+![test](./emojis/sponsors.pdf)
+![test](./emojis/test_google.sh)
+![test](./emojis/thegame.png)
+![test](./emojis/thinkinghand.png)
+![test](./emojis/true.jpg)
+
