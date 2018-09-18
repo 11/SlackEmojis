@@ -1,4 +1,7 @@
-- ![emoji](./emojis/+111111111111.gif)
+<body>
+  <img src="./emojis/+111111111111.gif" width=30px" height="30px"></img> 
+  <img src="./emojis/1000000.png" width="30px" height="30px"></img> 
+</body>
 - ![emoji](./emojis/1000000.png)
 - ![emoji](./emojis/2day.png)
 - ![emoji](./emojis/40.png)
