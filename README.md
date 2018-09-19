@@ -27,29 +27,3 @@
   <img src="./emojis/thinkinghand.png" width="30px" height="30px"></img>
   <img src="./emojis/true.jpg" width="30px" height="30px"></img>
 </body>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
