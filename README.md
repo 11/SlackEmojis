@@ -23,7 +23,6 @@
   <img src="./emojis/happyburrito.jpg  " width="30px" height="30px"></img>
   <img src="./emojis/meeseeks.png      " width="30px" height="30px"></img>
   <img src="./emojis/rocker.gif        " width="30px" height="30px"></img>
-  <img src="./emojis/sponsors.pdf      " width="30px" height="30px"></img>
   <img src="./emojis/thegame.png       " width="30px" height="30px"></img>
   <img src="./emojis/thinkinghand.png  " width="30px" height="30px"></img>
   <img src="./emojis/true.jpg" width="30px" height="30px"></img>
