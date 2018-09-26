@@ -9,6 +9,7 @@ Sadly, Slack doesn't offer an endpoint for users to mass upload emojis to. Lucky
 4. Drag’n’drop all emojis on the Bulk Emoji Uploader drop area.
 
 
+### Check Out The Full Set of Emojis
 
 <body>
   <img src="./emojis/+111111111111.gif"  width="30px" height="30px"></img>
