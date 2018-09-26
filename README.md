@@ -30,7 +30,7 @@ Sadly, Slack doesn't offer an endpoint for users to mass upload emojis to. Lucky
 | <img src="./emojis/big_ass_fan.jpg" width="30px" height="30px"></img>    | `:big_ass_fan:` |
 | <img src="./emojis/black_russian.png" width="30px" height="30px"></img>  | `:black_russian:` |
 | <img src="./emojis/blargh.jpg" width="30px" height="30px"></img>         | `:blargh:` |
-| <img src="./emojis/bmo.gif" width="30px" height="30px"></img>            | `:bmg:` |
+| <img src="./emojis/bmo.gif" width="30px" height="30px"></img>            | `:bmo:` |
 | <img src="./emojis/bob_omb.gif" width="30px" height="30px"></img>        | `:bob_omb:` |
 | <img src="./emojis/bokbok.png" width="30px" height="30px"></img>         | `:bokbok:` |
 | <img src="./emojis/burrrrito.gif" width="30px" height="30px"></img>      | `:burrrrito:` |
