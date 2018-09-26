@@ -1,3 +1,15 @@
+# Slack Emojis
+
+### How to Mass Upload
+Sadly, Slack doesn't offer an endpoint for users to mass upload emojis to. Lucky for us though, there is a work-around.
+
+1. Download this repo: `git clone https://github.com/11/slack-emojis.git`
+2. Install this Chrome extension: http://bit.ly/2fPY8el
+3. Go to `<your_team>`.slack.com/customize/emoji
+4. Drag’n’drop all emojis on the Bulk Emoji Uploader drop area.
+
+
+
 <body>
   <img src="./emojis/+111111111111.gif"  width="30px" height="30px"></img>
   <img src="./emojis/1000000.png"        width="30px" height="30px"></img>
