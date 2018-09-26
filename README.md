@@ -14,8 +14,6 @@ Sadly, Slack doesn't offer an endpoint for users to mass upload emojis. Lucky fo
 
 | Img | Name |
 |--- | --- |
-
-
 | <img src="./emojis/+111111111111.gif" width="30px" height="30px"></img> | `:+111111111111:` |
 | <img src="./emojis/1000000.png" width="30px" height="30px"></img> | `:1000000:` |
 | <img src="./emojis/1up.png" width="30px" height="30px"></img> | `:1up:` |
