@@ -8,6 +8,7 @@ Sadly, Slack doesn't offer an endpoint for users to mass upload emojis. Lucky fo
 3. Go to `<your_team>`.slack.com/customize/emoji
 4. Drag’n’drop all emojis on the Bulk Emoji Uploader drop area.
 
+---
 
 ### Check Out The Full Set of Emojis
 
@@ -24,7 +25,7 @@ Sadly, Slack doesn't offer an endpoint for users to mass upload emojis. Lucky fo
 | <img src="./emojis/angrycactusboi.gif" width="30px" height="30px"></img> | `:angry_cactus_boi:` |
 | <img src="./emojis/aol.png" width="30px" height="30px"></img>            | `:aol:` |
 | <img src="./emojis/approved.png" width="30px" height="30px"></img>       | `:approved:` |
-| <img src="./emojis/avodude.png" width="30px" height="30px"></img>        | `:avodude:` | 
+| <img src="./emojis/avodude.png" width="30px" height="30px"></img>        | `:avodude:` |
 | <img src="./emojis/awesomeface.jpg" width="30px" height="30px"></img>    | `:awesomeface:` |
 | <img src="./emojis/bacon_dance.gif" width="30px" height="30px"></img>    | `:bacon_dance:` |
 | <img src="./emojis/big_ass_fan.jpg" width="30px" height="30px"></img>    | `:big_ass_fan:` |
