@@ -15,7 +15,7 @@ Sadly, Slack doesn't offer an endpoint for users to mass upload emojis. Lucky fo
 |--- | --- |
 | <img src="./emojis/+111111111111.gif"  width="30px" height="30px"></img> | `:+111111111111:` |
 | <img src="./emojis/1000000.png"        width="30px" height="30px"></img> | `:10000000:` |
-| <img src="./emojis/2day.png" width="30px" height="30px"></img>           | `:2day:` |
+| <img src="./emojis/2day.png" width="30px" height="30px"></img>           | `:2today:` |
 | <img src="./emojis/40.png" width="30px" height="30px"></img>             | `:40:` |
 | <img src="./emojis/420alert.gif" width="30px" height="30px"></img>       | `:420alert:` |
 | <img src="./emojis/666.gif" width="30px" height="30px"></img>            | `:666:` |
