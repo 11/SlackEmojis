@@ -22,7 +22,6 @@ Sadly, Slack doesn't offer an endpoint for users to mass upload emojis. Lucky fo
 | <img src="./emojis/420alert.gif" width="30px" height="30px"></img> | `:420alert.gif:` |
 | <img src="./emojis/666.gif" width="30px" height="30px"></img> | `:666.gif:` |
 | <img src="./emojis/99.png" width="30px" height="30px"></img> | `:99.png:` |
-| <img src="./emojis/Receipt on Sep 21, 2018 at 6_31_45 PM.png" width="30px" height="30px"></img> | `:Receipt on Sep 21, 2018 at 6_31_45 PM.png:` |
 | <img src="./emojis/angry_taco.png" width="30px" height="30px"></img> | `:angry_taco.png:` |
 | <img src="./emojis/angrycactusboi.gif" width="30px" height="30px"></img> | `:angrycactusboi.gif:` |
 | <img src="./emojis/aol.png" width="30px" height="30px"></img> | `:aol.png:` |
