@@ -1,3 +1,7 @@
+# Author: Doug Rudolph -- github.com/11
+# Created: Sep 27th, 2018
+# Description: This file is currently a work in progress
+
 import requests
 import os
 
