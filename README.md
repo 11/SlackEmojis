@@ -1,7 +1,7 @@
 # Slack Emojis
 
 ### Upload Script
-<b>Coming Soon</b>
+- <b>Coming Soon</b>
 
 ### Manually Mass Upload
 Sadly, Slack doesn't offer an endpoint for users to mass upload emojis. Lucky for us though, there is a work-around.
