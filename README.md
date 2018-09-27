@@ -14,6 +14,7 @@ Sadly, Slack doesn't offer an endpoint for users to mass upload emojis. Lucky fo
 ---
 
 ### Check Out The Full Set of Emojis
+The set of emojis are hand-picked from my current slacks and are curated to feel original and useful. Hope you enjoy!
 
 | Img | Name |
 | --- | --- |
