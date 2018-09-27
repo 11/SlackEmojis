@@ -8,6 +8,9 @@ Sadly, Slack doesn't offer an endpoint for users to mass upload emojis. Lucky fo
 3. Go to `<your_team>`.slack.com/customize/emoji
 4. Drag’n’drop all emojis on the Bulk Emoji Uploader drop area.
 
+### Upload Script
+*Coming Soon*
+
 ---
 
 ### Check Out The Full Set of Emojis
