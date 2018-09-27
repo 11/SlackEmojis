@@ -1,8 +1,5 @@
 # Slack Emojis
 
-### Description
-Hi :wave:! This repository was made to contain the most diverse and versatile set of _dank_ emojis one could find. Hope you enjoy :smile: - and happy slacking!  
-
 ### Upload Script
 <b>Coming Soon</b>
 
