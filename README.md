@@ -14,7 +14,7 @@ Sadly, Slack doesn't offer an endpoint for users to mass upload emojis. Lucky fo
 
 | Img | Name |
 | --- | --- |
-| <img src="./emojis/+111111111111.gif" width="30px" height="30px"></img> | `:+111111111111:` |
+| <img src="./emojis/+111111111111.gif" width=30px height=30px></img> | `:+111111111111:` |
 | <img src="./emojis/1up.png" width="30px" height="30px"></img> | `:1up:` |
 | <img src="./emojis/2day.png" width="30px" height="30px"></img> | `:2day:` |
 | <img src="./emojis/40.png" width="30px" height="30px"></img> | `:40:` |
@@ -147,7 +147,9 @@ Sadly, Slack doesn't offer an endpoint for users to mass upload emojis. Lucky fo
 | <img src="./emojis/growing_cactus.gif" width="30px" height="30px"></img> | `:growing_cactus:` |
 | <img src="./emojis/hamburger_parrot.gif" width="30px" height="30px"></img> | `:hamburger_parrot:` |
 | <img src="./emojis/happyburrito.jpg" width="30px" height="30px"></img> | `:happyburrito:` |
+| <img src="./emojis/hypnotoad.gif" width="30px" height="30px"></img> | `:hypnotoad:` |
 | <img src="./emojis/ice_cream_parrot.gif" width="30px" height="30px"></img> | `:ice_cream_parrot:` |
+| <img src="./emojis/indeed.png" width="30px" height="30px"></img> | `:indeed:` |
 | <img src="./emojis/infinite.png" width="30px" height="30px"></img> | `:infinite:` |
 | <img src="./emojis/lol.gif" width="30px" height="30px"></img> | `:lol:` |
 | <img src="./emojis/love_parrot.gif" width="30px" height="30px"></img> | `:love_parrot:` |
@@ -170,6 +172,7 @@ Sadly, Slack doesn't offer an endpoint for users to mass upload emojis. Lucky fo
 | <img src="./emojis/sad_parrot.gif" width="30px" height="30px"></img> | `:sad_parrot:` |
 | <img src="./emojis/shark_dance.gif" width="30px" height="30px"></img> | `:shark_dance:` |
 | <img src="./emojis/slow_parrot.gif" width="30px" height="30px"></img> | `:slow_parrot:` |
+| <img src="./emojis/spicy.gif" width="30px" height="30px"></img> | `:spicy:` |
 | <img src="./emojis/spotify.png" width="30px" height="30px"></img> | `:spotify:` |
 | <img src="./emojis/teef2.png" width="30px" height="30px"></img> | `:teef2:` |
 | <img src="./emojis/teef.png" width="30px" height="30px"></img> | `:teef:` |
@@ -186,5 +189,6 @@ Sadly, Slack doesn't offer an endpoint for users to mass upload emojis. Lucky fo
 | <img src="./emojis/uncomfortable-smiley-2.jpg" width="30px" height="30px"></img> | `:uncomfortable-smiley-2:` |
 | <img src="./emojis/uncomfortable-smiley-3.jpg" width="30px" height="30px"></img> | `:uncomfortable-smiley-3:` |
 | <img src="./emojis/uncomfortable-smiley.jpg" width="30px" height="30px"></img> | `:uncomfortable-smiley:` |
+| <img src="./emojis/waffle.png" width="30px" height="30px"></img> | `:waffle:` |
 | <img src="./emojis/wellplayed.gif" width="30px" height="30px"></img> | `:wellplayed:` |
 | <img src="./emojis/wtf_jerry.png" width="30px" height="30px"></img> | `:wtf_jerry:` |
