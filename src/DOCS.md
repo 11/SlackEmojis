@@ -13,14 +13,16 @@
     - When linking to a directory, this flag will search for `*.gif`, `*.jpg`, and `*.png` files and ignore all other file types
 
 
-### Example Command:
+### Run slackmoji Command
 
     Default Command:
+
     ```bash
     slackmoji --workspace slack-name --email user@gmail.com --password abc123 --directory ./emojis/
     ```
 
     Abreviated Command:
+
     ```bash
     slackmoji -w slack-name -e user@gmail.com -p abc123 -d ./emojis/
     ```
