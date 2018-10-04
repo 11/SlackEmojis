@@ -1,11 +1,27 @@
 # Author: Doug Rudolph -- github.com/11
 # Created: Sep 27th, 2018
 
-
-"""
-"""
-
 import sys
+
+
+def parse_cmd(cmd):
+    mapped_cmd_params = {}
+    flags = {
+        '--workspace': 'workspace', '--email': 'email', '--password': 'password', '--url': 'url', '--directory': 'directory',
+        '-w': 'workspace', '-e': 'email', '-p': 'password', '-u': 'url', '-d': 'directory'
+    }
+
+    for index,val in enumerate(cmd):
+        if flags.get(val) is not None:
+            try:
+                mapped_cmd_params.update({flags[val]: cmd[index+1]})
+            except Exception as err:
+                raise err
+        else:
+            print(f'Parameter: {val} not recognized')
+            sys.exit(0)
+
+    return params
 
 
 class Slack:
@@ -41,33 +57,6 @@ class Slack:
     def _upload_dir(self):
         pass
 
-
-def parse_cmd(command):
-    params = {}
-    flags = {
-        '--workspace': 'workspace',
-        '--email': 'email',
-        '--password': 'password',
-        '--url': 'url',
-        '--directory': 'directory',
-        '-w': 'workspace',
-        '-e': 'email',
-        '-p': 'password',
-        '-u': 'url',
-        '-d': 'directory'
-    }
-
-    for index,val in enumerate(command):
-        if flags.get(val) is not None:
-            try:
-                params.update({flags[val]: command[index+1]})
-            except Exception as err:
-                raise err
-        else:
-            print(f'Parameter: {val} not recognized')
-            sys.exit(0)
-
-    return params
 
 if __name__ == '__main__':
     cmd = sys.argv
