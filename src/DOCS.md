@@ -14,15 +14,12 @@
 
 
 ### Run slackmoji Command
+<b>Default Command</b>
+``` 
+slackmoji --workspace slack-name --email user@gmail.com --password abc123 --directory ./emojis/
+```
 
-    Default Command:
-
-    ```bash
-    slackmoji --workspace slack-name --email user@gmail.com --password abc123 --directory ./emojis/
-    ```
-
-    Abreviated Command:
-
-    ```bash
-    slackmoji -w slack-name -e user@gmail.com -p abc123 -d ./emojis/
-    ```
+<b>Abreviated Command</b>
+``` 
+slackmoji -w slack-name -e user@gmail.com -p abc123 -d ./emojis/
+```
