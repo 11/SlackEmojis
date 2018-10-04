@@ -1,8 +1,7 @@
 ### Different flags and their meanings
 
-1. `--workspace` or `-w`: The subdomain used when logging into slack (the part that comes before slack.com )
-    - Example: company.slack.com
-    - ie. <subdomain>.slack.com
+1. `--workspace` or `-w`: The subdomain used when logging into slack (the part that comes before `slack.com`)
+    - ie. `<subdomain>.slack.com`
 
 2. `--email` or `-e`: The email used to log into slack
 
@@ -17,11 +16,11 @@
 ### Example Command:
 
     Default Command:
-    ```
+    ```bash
     slackmoji --workspace slack-name --email user@gmail.com --password abc123 --directory ./emojis/
     ```
 
     Abreviated Command:
-    ```
+    ```bash
     slackmoji -w slack-name -e user@gmail.com -p abc123 -d ./emojis/
     ```
