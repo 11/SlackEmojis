@@ -25,10 +25,7 @@ def parse_cmd(cmd):
             except Exception as err:
                 raise err
         else:
-
-
             print(f'Parameter: {val} not recognized')
-
             print( """
             --workspace or -w: The subdomain used when logging into slack (the part that comes before slack.com)
 
