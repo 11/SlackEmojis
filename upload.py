@@ -1,6 +1,10 @@
 # Author: Doug Rudolph -- github.com/11
 # Created: Sep 27th, 2018
 
+
+"""
+"""
+
 import sys
 
 
@@ -15,14 +19,18 @@ class Slack:
         self.url = self.parsed_cmd.get('url', None)
         self.directory = self.parsed_cmd.get('directory', None)
 
-        if url is None and directory is None:
+        if self.url is None and self.directory is None:
             print('command provided no url or directory')
             sys.exit(0)
 
         # Mandatory parameters
-        self.email = self.parsed_cmd['email']
-        self.password = self.parsed_cmd['password']
-        self.workspace = self.parsed_cmd['workspace']
+        self.email = self.parsed_cmd.get('email', None)
+        self.password = self.parsed_cmd.get('password', None)
+        self.workspace = self.parsed_cmd.get('workspace', None)
+
+        if self.email is None or self.password is None or self.workspace is None:
+            print('email, password, and workspace must be provided')
+            sys.exit(0)
 
     def upload(self):
         pass
@@ -35,36 +43,6 @@ class Slack:
 
 
 def parse_cmd(command):
-    """
-    Different flags and their meanings
-
-    1.) --workspace or -w:
-        - The subdomain used when logging into slack; often the name of the slack.
-        - Example: company.slack.com
-        - ie. <subdomain>.slack.com
-
-    2.) --email or -e:
-        - The email used to log into slack
-
-    3.) --password or -p:
-        - The password used to log into slack
-
-    4.) --url or -u:
-        - The url to an emoji you want uploaded
-
-    5.) --directory or -d :
-        - A relative path to a directory of emojis or images
-        - When linking to a directory, this flag will search for *.gif, *.jpg, and *.png files and ignore all other filetypes
-
-
-    Example Command:
-        slackmoji --workspace slack-name --email user@gmail.com --password abc123 --directory ./emojis/
-        slackmoji -w slack-name -e user@gmail.com -p abc123 -d ./emojis/
-
-        Either command is the same
-
-    Return a dictionary that contains the separate flags mapped to their values
-    """
     params = {}
     flags = {
         '--workspace': 'workspace',
